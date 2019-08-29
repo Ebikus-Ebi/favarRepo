@@ -1,3 +1,17 @@
 #TASK 2
 Instruction: List of ten (15) Git commands
-		 
+		 git tag
+		 git add .
+		 git push
+		 git commit -m "type a message"
+		 git clone
+		 git status
+		 git merge
+		 git pull
+		 git stash
+		 git show
+		 git remote
+		 git checkout
+		 git branch
+		 git reset
+		 git config
